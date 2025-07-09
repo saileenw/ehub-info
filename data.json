@@ -1606,37 +1606,37 @@
     {
       "number": 424,
       "code": "early_priority_overnight",
-      "carrier": "GSO",
+      "carrier": "GLS",
       "contract": ""
     },
     {
       "number": 425,
       "code": "priority_overnight",
-      "carrier": "GSO",
+      "carrier": "GLS",
       "contract": ""
     },
     {
       "number": 426,
       "code": "california_parcel_service",
-      "carrier": "GSO",
+      "carrier": "GLS",
       "contract": ""
     },
     {
       "number": 427,
       "code": "saturday_delivery_service",
-      "carrier": "GSO",
+      "carrier": "GLS",
       "contract": ""
     },
     {
       "number": 428,
       "code": "early_saturday_service",
-      "carrier": "GSO",
+      "carrier": "GLS",
       "contract": ""
     },
     {
       "number": 429,
       "code": "gso_ground",
-      "carrier": "GSO",
+      "carrier": "GLS",
       "contract": ""
     },
     {
@@ -4892,7 +4892,19 @@
       "number": 1260,
       "code": "amazon_ground",
       "carrier": "Amazon",
-      "contract": "(InfoPlus Hardcode)"
+      "contract": ""
+    },
+     {
+      "number": 1265,
+      "code": "noon_priority",
+      "carrier": "GLS",
+      "contract": ""
+    },
+      {
+      "number": 1267,
+      "code": "uniuni_standar",
+      "carrier": "uniuni",
+      "contract": ""
     }
   ],
 
@@ -5264,8 +5276,8 @@
     },
   {
       "id": 44,
-      "name": "eHub GSO",
-      "contract": "GSO"
+      "name": "eHub GLS",
+      "contract": "GLS"
   
     },
   {
