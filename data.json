@@ -4811,9 +4811,9 @@
     },
     {
       "number": 1172,
-      "code": "usps_ground_advantage",
+      "code": "usps_ground_advantage (GA over and under 1lb)",
       "carrier": "USPS",
-      "contract": "(InfoPlus Hardcode)"
+      "contract": "EasyPost (InfoPlus Hardcode)"
     },
     {
       "number": 1173,
