@@ -3,6 +3,7 @@
     {
       "number": 157,
       "code": "usps_first_class",
+      "name": "USPS First Class",
       "carrier": "USPS",
       "contract": "Pitney Bows"
     },
