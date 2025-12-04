@@ -43,7 +43,7 @@ function displayContent(items) {
 
     let headers = [];
     if (currentTab === 'services') {
-        headers = ['Service ID', 'Service Code', 'Carrier', 'Contract'];
+        headers = ['Service ID', 'Service Code', 'Service Name', 'Carrier', 'Contract'];
     } else if (currentTab === 'errors') {
         headers = ['Error', 'Solution'];
     } else if (currentTab === 'questions') {
@@ -68,11 +68,12 @@ function displayContent(items) {
         const row = document.createElement('tr');
 
         if (currentTab === 'services') {
-            row.appendChild(createCell(item.number));
-            row.appendChild(createCell(item.code));
-            row.appendChild(createCell(item.carrier));
-            row.appendChild(createCell(item.contract || 'Pending'));
-        } else if (currentTab === 'errors') {
+    row.appendChild(createCell(item.number));
+    row.appendChild(createCell(item.code));
+    row.appendChild(createCell(item.name || 'N/A'));
+    row.appendChild(createCell(item.carrier));
+    row.appendChild(createCell(item.contract || 'Pending'));
+}else if (currentTab === 'errors') {
             row.appendChild(createCell(item.error));
             row.appendChild(createCell(item.solution));
         } else if (currentTab === 'questions') {
@@ -106,9 +107,10 @@ searchInput.addEventListener('input', function () {
         if (currentTab === 'services') {
             return (
                 item.number.toString().includes(searchValue) ||
-                item.code.toLowerCase().includes(searchValue) ||
-                item.carrier.toLowerCase().includes(searchValue) ||
-                (item.contract && item.contract.toLowerCase().includes(searchValue))
+        item.code.toLowerCase().includes(searchValue) ||
+        (item.name && item.name.toLowerCase().includes(searchValue)) ||
+        item.carrier.toLowerCase().includes(searchValue) ||
+        (item.contract && item.contract.toLowerCase().includes(searchValue))
             );
         } else if (currentTab === 'errors') {
             return (
