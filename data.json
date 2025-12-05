@@ -3568,168 +3568,168 @@
 "code": "ups_ground",
 "name": "Ground",
 "carrier": "UPS",
-"contract": "EasyPost (InfoPlus Hardcode), easypost"
+"contract": "(InfoPlus Hardcode), easypost"
 },
 {
 "number": 667,
 "code": "ups_standard",
 "name": "UPSStandard",
 "carrier": "UPS",
-"contract": "EasyPost (InfoPlus Hardcode), easypost"
+"contract": "(InfoPlus Hardcode), easypost"
 },
 {
 "number": 668,
 "code": "ups_saver",
 "name": "UPSSaver",
 "carrier": "UPS",
-"contract": "EasyPost (InfoPlus Hardcode), easypost"
+"contract": "(InfoPlus Hardcode), easypost"
 },
 {
 "number": 669,
 "code": "ups_express",
 "name": "Express",
 "carrier": "UPS",
-"contract": "EasyPost (InfoPlus Hardcode), easypost"
+"contract": "(InfoPlus Hardcode), easypost"
 },
 {
 "number": 670,
 "code": "ups_express_plus",
 "name": "ExpressPlus",
 "carrier": "UPS",
-"contract": "EasyPost (InfoPlus Hardcode), easypost"
+"contract": "(InfoPlus Hardcode), easypost"
 },
 {
 "number": 671,
 "code": "ups_expedited",
 "name": "Expedited",
 "carrier": "UPS",
-"contract": "EasyPost (InfoPlus Hardcode), easypost"
+"contract": "(InfoPlus Hardcode), easypost"
 },
 {
 "number": 672,
 "code": "ups_next_day",
 "name": "NextDayAir",
 "carrier": "UPS",
-"contract": "EasyPost (InfoPlus Hardcode), easypost"
+"contract": "(InfoPlus Hardcode), easypost"
 },
 {
 "number": 673,
 "code": "ups_next_day_saver",
 "name": "NextDayAirSaver",
 "carrier": "UPS",
-"contract": "EasyPost (InfoPlus Hardcode), easypost"
+"contract": "(InfoPlus Hardcode), easypost"
 },
 {
 "number": 674,
 "code": "ups_next_day_am",
 "name": "NextDayAirEarlyAM",
 "carrier": "UPS",
-"contract": "EasyPost (InfoPlus Hardcode), easypost"
+"contract": "(InfoPlus Hardcode), easypost"
 },
 {
 "number": 675,
 "code": "ups_2nd_day",
 "name": "2ndDayAir",
 "carrier": "UPS",
-"contract": "EasyPost (InfoPlus Hardcode), easypost"
+"contract": "(InfoPlus Hardcode), easypost"
 },
 {
 "number": 676,
 "code": "ups_2nd_day_am",
 "name": "2ndDayAirAM",
 "carrier": "UPS",
-"contract": "EasyPost (InfoPlus Hardcode), easypost"
+"contract": "(InfoPlus Hardcode), easypost"
 },
 {
 "number": 677,
 "code": "ups_3day_select",
 "name": "3DaySelect",
 "carrier": "UPS",
-"contract": "EasyPost (InfoPlus Hardcode), easypost"
+"contract": "(InfoPlus Hardcode), easypost"
 },
 {
 "number": 678,
 "code": "ups_first_class",
 "name": "First",
 "carrier": "UPS",
-"contract": "EasyPost, easypost"
+"contract": "easypost"
 },
 {
 "number": 679,
 "code": "ups_priority",
 "name": "Priority",
 "carrier": "UPS",
-"contract": "EasyPost, easypost"
+"contract": "easypost"
 },
     {
 "number": 680,
 "code": "ups_mail_innovations_expedited",
 "name": "ExpeditedMailInnovations",
 "carrier": "UPS",
-"contract": "EasyPost (InfoPlus Hardcode), easypost"
+"contract": "(InfoPlus Hardcode), easypost"
 },
     {
 "number": 681,
 "code": "ups_mail_innovations_priority",
 "name": "PriorityMailInnovations",
 "carrier": "UPS",
-"contract": "EasyPost (InfoPlus Hardcode), easypost"
+"contract": "(InfoPlus Hardcode), easypost"
 },
 {
 "number": 682,
 "code": "ups_mail_innovations_economy",
 "name": "EconomyMailInnovations",
 "carrier": "UPS",
-"contract": "EasyPost (InfoPlus Hardcode), easypost"
+"contract": "(InfoPlus Hardcode), easypost"
 },
 {
 "number": 683,
 "code": "usps_first_class",
 "name": "First Class Mail",
 "carrier": "USPS",
-"contract": "EasyPost (InfoPlus Hardcode), easypost"
+"contract": "(InfoPlus Hardcode), easypost"
 },
 {
 "number": 684,
 "code": "usps_priority",
 "name": "Priority Mail",
 "carrier": "USPS",
-"contract": "EasyPost (InfoPlus Hardcode), easypost"
+"contract": "(InfoPlus Hardcode), easypost"
 },
 {
 "number": 685,
 "code": "usps_express",
 "name": "Priority Mail Express",
 "carrier": "USPS",
-"contract": "EasyPost (InfoPlus Hardcode), easypost"
+"contract": "(InfoPlus Hardcode), easypost"
 },
 {
 "number": 686,
 "code": "usps_parcel_select",
 "name": "Parcel Select",
 "carrier": "USPS",
-"contract": "EasyPost (InfoPlus Hardcode), easypost"
+"contract": "(InfoPlus Hardcode), easypost"
 },
 {
 "number": 687,
 "code": "usps_library_mail",
 "name": "Library Mail",
 "carrier": "USPS",
-"contract": "EasyPost (InfoPlus Hardcode), easypost"
+"contract": "(InfoPlus Hardcode), easypost"
 },
 {
 "number": 688,
 "code": "usps_media_mail",
 "name": "Media Mail",
 "carrier": "USPS",
-"contract": "EasyPost (InfoPlus Hardcode), easypost"
+"contract": "(InfoPlus Hardcode), easypost"
 },
 {
 "number": 689,
 "code": "usps_intl_first_class",
 "name": "First Class International",
 "carrier": "USPS",
-"contract": "EasyPost (InfoPlus Hardcode), easypost"
+"contract": "(InfoPlus Hardcode), easypost"
 },
 {
 "number": 690,
