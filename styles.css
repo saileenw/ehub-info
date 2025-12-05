@@ -68,7 +68,7 @@ table {
 }
 
 th, td {
-    padding: 25px 25px;
+    padding: 15px 20px;
     border-bottom: 1px solid #dddddd;
 }
 
@@ -79,4 +79,24 @@ th {
 
 tr:nth-child(even) {
     background-color: #f2f2f2;
+}
+/* Set specific widths for each column */
+th:nth-child(1), td:nth-child(1) {
+    width: 10%;  /* Service ID */
+}
+
+th:nth-child(2), td:nth-child(2) {
+    width: 35%;  /* Service Code */
+}
+
+th:nth-child(3), td:nth-child(3) {
+    width: 25%;  /* Service Name */
+}
+
+th:nth-child(4), td:nth-child(4) {
+    width: 20%;  /* Carrier */
+}
+
+th:nth-child(5), td:nth-child(5) {
+    width: 20%;  /* Contract */
 }
