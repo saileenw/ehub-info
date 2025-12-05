@@ -68,7 +68,7 @@ table {
 }
 
 th, td {
-    padding: 15px 20px;
+    padding: 12px 15px;
     border-bottom: 1px solid #dddddd;
 }
 
@@ -82,11 +82,11 @@ tr:nth-child(even) {
 }
 /* Set specific widths for each column */
 th:nth-child(1), td:nth-child(1) {
-    width: 10%;  /* Service ID */
+    width: 20%;  /* Service ID */
 }
 
 th:nth-child(2), td:nth-child(2) {
-    width: 35%;  /* Service Code */
+    width: 25%;  /* Service Code */
 }
 
 th:nth-child(3), td:nth-child(3) {
