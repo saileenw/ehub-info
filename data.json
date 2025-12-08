@@ -3,77 +3,77 @@
     {
       "number": 157,
       "code": "usps_first_class",
-      "name": "",
+      "name": "USPS First Class",
       "carrier": "USPS",
       "contract": "Pitney Bows"
     },
     {
       "number": 158,
       "code": "usps_priority",
-      "name": "",
+      "name": "USPS Priority",
       "carrier": "USPS",
       "contract": "Pitney Bows"
     },
     {
       "number": 159,
       "code": "usps_media_mail",
-      "name": "",
+      "name": "USPS Media Mail",
       "carrier": "USPS",
       "contract": "Pitney Bows"
     },
     {
       "number": 160,
       "code": "usps_standard_post",
-      "name": "",
+      "name": "USPS Standard Post",
       "carrier": "USPS",
       "contract": "Pitney Bows"
     },
     {
       "number": 161,
       "code": "usps_express",
-      "name": "",
+      "name": "USPS Express",
       "carrier": "USPS",
       "contract": "Pitney Bows"
     },
     {
       "number": 162,
       "code": "usps_library_mail",
-      "name": "",
+      "name": "USPS Library Mail",
       "carrier": "USPS",
       "contract": "Pitney Bows"
     },
     {
       "number": 163,
       "code": "usps_intl_express",
-      "name": "",
+      "name": "USPS International Express",
       "carrier": "USPS",
       "contract": "Pitney Bows"
     },
     {
       "number": 164,
       "code": "usps_intl_priority",
-      "name": "",
+      "name": "USPS International Priority",
       "carrier": "USPS",
       "contract": "Pitney Bows"
     },
     {
       "number": 165,
       "code": "usps_intl_first_class",
-      "name": "",
+      "name": "USPS International First Class",
       "carrier": "USPS",
       "contract": "Pitney Bows"
     },
     {
       "number": 166,
       "code": "usps_parcel_select",
-      "name": "",
+      "name": "USPS Parcel Select",
       "carrier": "USPS",
       "contract": "Pitney Bows"
     },
     {
       "number": 167,
       "code": "usps_intl_first_class_package",
-      "name": "",
+      "name": "USPS International First Class Package",
       "carrier": "USPS",
       "contract": "Pitney Bows"
     },
