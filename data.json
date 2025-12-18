@@ -6417,6 +6417,11 @@
       "id": 73,
       "name": "Landmark",
       "contract": "Landmark"
+    },
+  {
+      "id": 77,
+      "name": "MorningStar Only",
+      "contract": "RKT DAP UPS"
     }
   ]
 }
