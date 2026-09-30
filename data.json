@@ -5998,6 +5998,55 @@
 "name": "",
 "carrier": "CirroECommerce",
 "contract": ""
+}, 
+  {
+"number": 1183,
+"code": "dhl_parcel_international_standard",
+"name": "DHL Parcel International Standard",
+"carrier": "dhl_ecommerce",
+"contract": "DHL Direct"
+},  
+      {
+"number": 1182,
+"code": "dhl_parcel_international_direct",
+"name": "DHL Parcel International Direct",
+"carrier": "dhl_ecommerce",
+"contract": "DHL Direct"
+},  
+          {
+"number": 1184,
+"code": "dhl_packet_international",
+"name": "DHL Packet International",
+"carrier": "dhl_ecommerce",
+"contract": "DHL Direct"
+}, 
+              {
+"number": 1185,
+"code": "dhl_parcel_international_direct_priority",
+"name": "DHL Parcel International Direct Priority",
+"carrier": "dhl_ecommerce",
+"contract": "DHL Direct"
+}, 
+                  {
+"number": 1186,
+"code": "dhl_parcel_international_direct_standard",
+"name": "DHL Parcel International Direct Standard",
+"carrier": "dhl_ecommerce",
+"contract": "DHL Direct"
+},
+                      {
+"number": 1338,
+"code": "speedx_ground",
+"name": "SpeedX Ground",
+"carrier": "SpeedX",
+"contract": ""
+},
+                          {
+"number": 1249,
+"code": "usps_ground_advantage",
+"name": "USPS Ground Advantage",
+"carrier": "USPS",
+"contract": "USPS API"
 }
 ],
 
